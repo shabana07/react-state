@@ -2,9 +2,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
-.main{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  width: 100vh;
+img {
+  width: 12rem;
+  height: 12em;
 }
